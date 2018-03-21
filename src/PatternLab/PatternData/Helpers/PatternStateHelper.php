@@ -17,6 +17,10 @@ use \PatternLab\Config;
 use \PatternLab\PatternData;
 use \PatternLab\Timer;
 
+/**
+ * Class PatternStateHelper
+ * @package PatternLab\PatternData\Helpers
+ */
 class PatternStateHelper extends \PatternLab\PatternData\Helper {
 	
 	public function __construct($options = array()) {
